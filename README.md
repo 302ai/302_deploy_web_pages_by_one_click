@@ -2,13 +2,13 @@
 
 <p align="center">Deploy web pages by one-click enables you to host static web pages on the platform through one-click deployment, supporting both single HTML file and ZIP package deployment.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/webserve/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/65" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_webserve_en.png)
 
-This is the open-source version of the [Deploy web pages by one-click](https://302.ai/en/tools/webserve/) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
+This is the open-source version of the [Deploy web pages by one-click](https://302.ai/product/detail/65) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
 ## Interface Preview
 File upload feature allows you to upload an HTML file or ZIP package to deploy static web pages with one click. Supports setting webpage expiration date for automatic offline removal.
